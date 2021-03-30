@@ -1,0 +1,2 @@
+epoch,categorical_accuracy,loss,lr,val_1-shot_5-way_acc,val_loss
+1,0.040999999999999995,52.75855703124891,0.001,0.244,5.117848486452872
