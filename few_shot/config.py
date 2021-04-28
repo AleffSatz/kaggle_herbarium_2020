@@ -3,7 +3,7 @@ import os
 
 PATH = os.path.dirname(os.path.realpath(__file__))
 
-DATA_PATH = '/bigdata/user/hieunt124/kaggle/'
+DATA_PATH = '/bigdata/hieunt/kaggle/'
 
 EPSILON = 1e-8
 
